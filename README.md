@@ -15,17 +15,22 @@ This Python project is a **Simple IP Address Finder** designed for educational p
 - Python 3.x
 - `colorama` library (for colored terminal text):
   ```bash
- ## Installation
- Clone the repository to your local machine:
- git clone https://github.com/yourusername/simple-ip-finder.git
-Install the required dependencies:
-pip install -r requirements.txt
-#Usage
-Run the Python script:
-python ip_finder.py
-## Follow the prompts to check IP or domain information. Select the desired option from the menu by entering the number corresponding to the task.
+    pip install colorama
+
+## Installation 
+
+Clone the repository to your local machine:
+
+```bash
+  git clone https://github.com/yourusername/simple-ip-finder.git
+  pip install -r requirements.txt
+```
+# Usage
+Follow the prompts to check IP or domain information. 
+Select the desired option from the menu by entering the number corresponding to the task.
 
 # Example
+```bash
 ███████╗██╗███╗   ██╗██████╗     ██╗   ██╗ ██████╗ ██╗   ██╗
 ██╔════╝██║████╗  ██║██╔══██╗    ╚██╗ ██╔╝██╔═══██╗██║   ██║
 █████╗  ██║██╔██╗ ██║██║  ██║     ╚████╔╝ ██║   ██║██║   ██║
@@ -43,7 +48,7 @@ This is used for educational purposes only (y/n):
 3) Show Domain Info
 4) Help 
 5) Exit
-  
+  ```
 # Contributing
 Feel free to contribute by submitting pull requests. Please ensure your code adheres to the general coding guidelines and is tested before submission.
 # Help Guide
