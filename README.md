@@ -97,11 +97,13 @@ After launching the script, the user will be prompted to agree to the terms that
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SHIFU851/GhostBuster-Tool
+```bash
+git clone https://github.com/SHIFU851/GhostBuster-Tool
+````
   Run the tool:
 ```bash
-   python ghost_buster.py
+python ghost_buster.py
+
 ````
 ## Requirements
 
