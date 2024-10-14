@@ -98,7 +98,7 @@ After launching the script, the user will be prompted to agree to the terms that
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ghost-buster-ip-tool.git
+   git clone https://github.com/SHIFU851/GhostBuster-Tool
   Run the tool:
 ```bash
    python ghost_buster.py
