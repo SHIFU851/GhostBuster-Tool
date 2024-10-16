@@ -106,7 +106,7 @@ cd GHOST BUSTER
 ```
 3.Run the tool:
 ```bash
-python ghost_buster.py
+python GHOST_BUSTER.py
 
 ````
 ## Requirements
