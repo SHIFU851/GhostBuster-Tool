@@ -104,7 +104,7 @@ git clone https://github.com/SHIFU851/GhostBuster-Tool
 ```bash
 cd GHOST BUSTER
 ```
-3.Run the tool:
+3. Run the tool:
 ```bash
 python GHOST_BUSTER.py
 
