@@ -100,7 +100,11 @@ After launching the script, the user will be prompted to agree to the terms that
 ```bash
 git clone https://github.com/SHIFU851/GhostBuster-Tool
 ````
-  Run the tool:
+2. Get into folder
+```bash
+cd GHOST BUSTER
+```
+3.Run the tool:
 ```bash
 python ghost_buster.py
 
