@@ -53,7 +53,7 @@ After launching the script, the user will be prompted to agree to the terms that
 
 ---
 
-## Options Overview
+##Overview
 
 ### 1. Check IP Info
    - This option retrieves detailed information about a specific IP address, such as city, country, organization, timezone, VPN status, and more.
